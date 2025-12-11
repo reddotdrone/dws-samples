@@ -16,3 +16,6 @@ Please do not fly drones in restricted areas and always follow local regulations
 Please do not use this sample application for commercial purposes without proper authorization, as the YOLOv8n model is subject to specific licensing terms.
 
 As this is a sample application, we do not provide any guarantees regarding its performance, reliability, or suitability for any particular purpose. Use it at your own risk.
+
+## Download
+You can download the APK file from the Releases section of this repository: [Releases](https://github.com/reddotdrone/dws-samples/releases/tag/cv%2Fyolov8n)
